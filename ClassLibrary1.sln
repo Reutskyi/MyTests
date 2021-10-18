@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTrainingProject", "MyTrainingProject\MyTrainingProject.csproj", "{B88EEC51-0ECE-4FBA-8316-153FD6AFD6F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonTest", "AmazonTest\AmazonTest.csproj", "{5C8F8679-EA95-4A52-A201-4024F5D84905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88EEC51-0ECE-4FBA-8316-153FD6AFD6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88EEC51-0ECE-4FBA-8316-153FD6AFD6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88EEC51-0ECE-4FBA-8316-153FD6AFD6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88EEC51-0ECE-4FBA-8316-153FD6AFD6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8F8679-EA95-4A52-A201-4024F5D84905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8F8679-EA95-4A52-A201-4024F5D84905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8F8679-EA95-4A52-A201-4024F5D84905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8F8679-EA95-4A52-A201-4024F5D84905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
