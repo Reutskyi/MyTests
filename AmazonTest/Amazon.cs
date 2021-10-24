@@ -24,11 +24,34 @@ namespace AmazonTest
         public void TestAmazon()
         {
             driver.Navigate().GoToUrl("https://www.amazon.com/");
-            var InputSearch= driver.FindElement(By.Id("twotabsearchtextbox"));
+
+            var InputSearch = driver.FindElement(By.Id("twotabsearchtextbox"));
             InputSearch.SendKeys("c sharp book");
+
             var Search = driver.FindElement(By.Id("nav-search-submit-button"));
             Search.Click();
+
+            wait.Until(condition =>
+            {
+                try
+                {
+                    var expectedLink = driver.FindElement(By.XPath("//div[@data-cel-widget='search_result_0']//a[text()='Paperback'][1]"));
+                    return expectedLink != null;
+                }
+                catch (Exception)
+                {
+                    return false;
+                }
+            });
+
+            driver.FindElement(By.XPath("//div[@data-cel-widget='search_result_0']//a[text()='Paperback'][1]")).Click();
+
+            driver.FindElement(By.Id("add-to-cart-button")).Click();
+
+            driver.FindElement(By.Id("nav-cart")).Click();
+
         }
+
         [TearDown]
         public void Stop()
         {
