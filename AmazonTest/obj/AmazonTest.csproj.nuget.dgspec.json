@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\AmazonTest\\AmazonTest.csproj": {}
+    "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\AmazonTest\\AmazonTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\AmazonTest\\AmazonTest.csproj": {
+    "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\AmazonTest\\AmazonTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\AmazonTest\\AmazonTest.csproj",
+        "projectUniqueName": "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\AmazonTest\\AmazonTest.csproj",
         "projectName": "AmazonTest",
-        "projectPath": "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\AmazonTest\\AmazonTest.csproj",
+        "projectPath": "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\AmazonTest\\AmazonTest.csproj",
         "packagesPath": "C:\\Users\\reutskyi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\AmazonTest\\obj\\",
+        "outputPath": "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\AmazonTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reutskyi\\AppData\\Roaming\\NuGet\\NuGet.Config",

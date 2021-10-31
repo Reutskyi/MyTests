@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\MyTrainingProject\\MyTrainingProject.csproj": {}
+    "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\MyTrainingProject\\MyTrainingProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\MyTrainingProject\\MyTrainingProject.csproj": {
+    "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\MyTrainingProject\\MyTrainingProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\MyTrainingProject\\MyTrainingProject.csproj",
+        "projectUniqueName": "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\MyTrainingProject\\MyTrainingProject.csproj",
         "projectName": "MyTrainingProject",
-        "projectPath": "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\MyTrainingProject\\MyTrainingProject.csproj",
+        "projectPath": "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\MyTrainingProject\\MyTrainingProject.csproj",
         "packagesPath": "C:\\Users\\reutskyi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\MyTrainingProject\\obj\\",
+        "outputPath": "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\MyTrainingProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reutskyi\\AppData\\Roaming\\NuGet\\NuGet.Config",

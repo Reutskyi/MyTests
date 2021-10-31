@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wNAUbic5ivNhH8Hvlk1whB0kWWDLWRwqoAxXBsGSZ3v5fGSNF74bv+rM9FumRh+6uD+dud55d6wFTjv+URHcCQ==",
+  "dgSpecHash": "EQ5W06YeVM5aODXHGe9DUgjbHQ0NZShzz4PZcOHPYjwWl6ChunCxqoYl/ijmayivT9SJfRl0UGTSjUeAw7rSwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\AmazonTest\\AmazonTest.csproj",
+  "projectFilePath": "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\AmazonTest\\AmazonTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reutskyi\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\reutskyi\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",

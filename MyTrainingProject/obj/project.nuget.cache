@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tM0gSuB+fgVIl2a9OafyVM8NGdogLQfmHjfF9/WAeQSyqNxvVhdRbCruMu/2uOX6pVfLg6zppQgKLX0yFHV6DA==",
+  "dgSpecHash": "3tftd39qy2ijtZpgRM1YV+lwi9mz03JpKed3oSkIZHDRxJSE0/Y5I86aXTUPXhvbxbMl5V5LVtyJK1FCWwiSXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\reutskyi\\Source\\Repos\\Reutskyi\\MyTests\\MyTrainingProject\\MyTrainingProject.csproj",
+  "projectFilePath": "C:\\Users\\reutskyi\\source\\repos\\Reutskyi\\MyTests\\MyTrainingProject\\MyTrainingProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reutskyi\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\reutskyi\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
